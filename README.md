@@ -1,2 +1,2 @@
 # Design_Patterns_PHP
-some design patterns samples by php
+This project comes form the book called Professional PHP Design Patterns by Aaron Saray.
